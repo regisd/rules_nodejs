@@ -2,9 +2,9 @@
 
 # Example Angular monorepo using Bazel
 
-There are a few ways to use Angular with Bazel. See https://bazelbuild.github.io/rules_nodejs/examples#angular for an overview of all the options.
+There are [a few ways to build an Angular app with Bazel](https://bazelbuild.github.io/rules_nodejs/examples#angular).
 
-This example demonstrates the Google-internal toolchain, which is fast but not very compatible with existing applications.
+This example demonstrates the Google toolchain, which is fast but not very compatible with existing applications.
 
 ## Guide to the example
 
